@@ -7,3 +7,8 @@ Hence, I tried recreating the Dropbox's website.
 Learning bootstrap is a journey, there are a lot of things one can explore using bootstrap, for this one
 I started off with selecting a proper navigation. After going through bootstraps website thoroughly I 
 selected a color that would match the website.
+
+After which I started going through the body, adding up all the images, looking through the keywords throughout
+
+Throughout my experience I got to learn about a lot of new things: carousel, spacing, cards.
+
