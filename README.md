@@ -12,3 +12,6 @@ After which I started going through the body, adding up all the images, looking 
 
 Throughout my experience I got to learn about a lot of new things: carousel, spacing, cards.
 
+Lastly, I went on with adding the footer, I added 2*5=10 columns so that I could fit in all of the stuff I have in 
+the footer part.
+
